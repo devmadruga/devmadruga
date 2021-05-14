@@ -19,4 +19,4 @@ Sou uma pessoa tranquila e em busca de novos desafios na área de tecnologia. Te
 * 🧐 Podes me procurar no [Linkedin](www.linkedin.com/in/anderson-madruga-dos-santos-536776156) também.
 
 
- Fique bem... ❤️
+ #### Fique bem... ❤️
