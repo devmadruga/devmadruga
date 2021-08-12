@@ -6,11 +6,9 @@ Sou uma pessoa tranquila e em busca de novos desafios na área de tecnologia. Te
 
 #### BIO
 
-* 🌱 Praticando Python, Django e Bancos de Dados (relacionais e não relacionais).
+* 🌱 🏡 Atualmente, a partir de casa, estou me aprofundando em alguns tópicos do meu interesse: Python (Pandas, Matplotlib, Scipy, Sympy e Numpy), Microsoft Power BI e SQL voltado para Ciência de Dados.
 
-* 🏡 Atualmente, a partir de casa, estou fazendo cursos online na Udemy.
-
-* 💬 Fale comigo sobre Python, Django e tecnologia de forma geral.
+* 💬 Fale comigo sobre Python e tecnologia de forma geral.
 
 * ⚡️ Curiosidade: Sou um grande fã de J. R. R. Tolkien.
 
