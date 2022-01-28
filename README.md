@@ -6,9 +6,9 @@ Sou uma pessoa tranquila e em busca de novos desafios na área de tecnologia. Te
 
 #### BIO
 
-* 🌱 🏡 Atualmente, a partir de casa, estou me aprofundando em alguns tópicos do meu interesse: Python (Pandas, Matplotlib, Scipy, Sympy e Numpy), Microsoft Power BI e SQL voltado para Ciência de Dados.
+* 🛠 Atual Desenvolvedor Web Python[Django] na Aria - Imagem e Tecnologia.
 
-* 💬 Fale comigo sobre Python e tecnologia de forma geral.
+* 💬 Fale comigo sobre Python, Django, YOLO, Ciência de Dados e tecnologia de forma geral.
 
 * ⚡️ Curiosidade: Sou um grande fã de J. R. R. Tolkien.
 
@@ -17,3 +17,6 @@ Sou uma pessoa tranquila e em busca de novos desafios na área de tecnologia. Te
 * 🧐 Podes me achar no [Linkedin](https://www.linkedin.com/in/anderson-madruga-dos-santos-536776156 "Anderson Madruga") também.
 
  #### Fique bem... ❤️
+<!---
+* 🌱 🏡 Atualmente, a partir de casa, estou me aprofundando em alguns tópicos do meu interesse: Python (Pandas, Matplotlib, Scipy, Sympy e Numpy), Microsoft Power BI e SQL voltado para Ciência de Dados.
+-->
