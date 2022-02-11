@@ -14,7 +14,7 @@ Sou uma pessoa tranquila e em busca de novos desafios na área de tecnologia. Te
 
 * 📫 Entre em contato: anderson.madruga@gmail.com
 
-* 🧐 Podes me achar no [Linkedin](https://www.linkedin.com/in/anderson-madruga-dos-santos-536776156 "Anderson Madruga") também.
+* 🧐 Podes me achar no [Linkedin](https://www.linkedin.com/in/anderson-madruga-dos-santos/ "Anderson Madruga") também.
 
  #### Fique bem... ❤️
 <!---
