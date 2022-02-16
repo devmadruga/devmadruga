@@ -12,7 +12,7 @@ Meu nome é Anderson Madruga. Sou uma pessoa tranquila e em busca de novos desaf
 
 * ⚡️ Curiosidade: Sou um grande fã de J. R. R. Tolkien.
 
-* 📫 Entre em contato: anderson.madruga@gmail.com
+* 📫 Entre em contato: anderson.madruga@gmail.com.
 
 * 🧐 Podes me achar no [Linkedin](https://www.linkedin.com/in/anderson-madruga-dos-santos/ "Anderson Madruga") também.
 
