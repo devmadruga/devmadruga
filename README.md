@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Sou uma pessoa tranquila e em busca de novos desafios na área de tecnologia. Tenho vasta experiência na educação, tanto como professor, quanto como gestor. Senti que meu tempo na educação foi de grande valia, mas que havia chegado a hora de uma mudança, pois me sentia estático. Com isso, nada mais natural do que migrar para uma das áreas de conhecimento/atuação mais dinâmicas dos tempos atuais. 
+Meu nome é Anderson Madruga. Sou uma pessoa tranquila e em busca de novos desafios na área de tecnologia. Sou Graduado em Física e Mestre em Física Nuclear, assim, minha trajetória acadêmica me deu grande poder de análise e resolução numérica dos mais diversos problemas.
 
 > "Bonito é melhor que feio. Explícito é melhor que implícito. Simples é melhor que complexo. Complexo é melhor que complicado.... (THE ZEN OF PYTHON)".
 
@@ -8,7 +8,7 @@ Sou uma pessoa tranquila e em busca de novos desafios na área de tecnologia. Te
 
 * 🛠 Atual Desenvolvedor Web Python[Django] na Aria - Imagem e Tecnologia.
 
-* 💬 Fale comigo sobre Python, Django, YOLO, Ciência de Dados e tecnologia de forma geral.
+* 💬 Fale comigo sobre Python, Django, YOLO, SQL, Microsoft Power Bi, Ciência de Dados e tecnologia de forma geral.
 
 * ⚡️ Curiosidade: Sou um grande fã de J. R. R. Tolkien.
 
