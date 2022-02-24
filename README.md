@@ -5,7 +5,7 @@ Graduado em Física e Mestre em Física Nuclear, assim, minha trajetória acadê
 
 > "Bonito é melhor que feio. Explícito é melhor que implícito. Simples é melhor que complexo. Complexo é melhor que complicado.... (THE ZEN OF PYTHON)".
 
-#### BIO
+## BIO
 
 * 🎓 Mestre em Física - ênfase em Física Nuclear - pelo [ITA](http://www.ita.br/).
 
