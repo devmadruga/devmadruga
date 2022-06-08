@@ -1,7 +1,7 @@
 
 # Olá 👋, eu sou o Anderson Madruga
 
-Graduado em Física e Mestre em Física Nuclear, assim, minha trajetória acadêmica me deu grande poder de análise e resolução numérica dos mais diversos problemas. No início de 2021, buscando me inserir em uma área de atuação que não está presa ao tradicional, migrei da Educação para a Tecnologia. 😉 Desde então, o Python está diariamente em minha vida, quer seja no FrameWork Django ou nas bibliotecas Pandas e Numpy.
+Graduado em Física e Mestre em Física Nuclear, assim, minha trajetória acadêmica me deu grande poder de análise e resolução numérica dos mais diversos problemas. No início de 2021, buscando me inserir em uma área de atuação que não está presa ao tradicional, migrei da Educação para a Tecnologia. 😉 Desde então, o Python está diariamente em minha vida, quer seja no FrameWork Django ou nas bibliotecas Pandas, Numpy ou Scikit-learn.
 
 > "Bonito é melhor que feio. Explícito é melhor que implícito. Simples é melhor que complexo. Complexo é melhor que complicado.... (THE ZEN OF PYTHON)".
 
@@ -9,17 +9,16 @@ Graduado em Física e Mestre em Física Nuclear, assim, minha trajetória acadê
 
 * 🎓 Mestre em Física - ênfase em Física Nuclear - pelo [ITA](http://www.ita.br/).
 
-* 💼 Atual Desenvolvedor Python na Aria - Imagem e Tecnologia.
-
 * 🛠 Tenho experiência com
 
-|      **Web**      |      **Dados**     |
-|:-----------------:|:------------------:|
-| Python - Django - | Python - Pandas -  |
-| HTLM5             | Python - Numpy -   |
-| CSS3              | Microsoft Power BI |
-| Bootstrap5        | Google Sheets      |
-| SQL               | SQL                |
+|      **Web**         |      **Dados**        |
+|:--------------------:|:---------------------:|
+| Python - Django      | Python - Pandas       |
+| Python - Django REST | Python - Numpy        |
+| HTLM5                | Python - Scikit-learn |
+| CSS3                 | Google Data Studio    |
+| Bootstrap5           | Microsoft Power BI    |
+| SQL                  | SQL                   |
 
 * 💻 Já faz algum tempo, mas ..
 
@@ -27,9 +26,9 @@ Graduado em Física e Mestre em Física Nuclear, assim, minha trajetória acadê
 >
 > 2. Dado um Banco de Dados de um e-commerce, veja algumas perguntas (e suas respectivas respostas) que poderíamos fazer para o Analista de Dados. Para tal, click: [Banco de Dados de um e-commerce](https://devmadruga.github.io/SQL/).
 
-* 💬 Fale comigo sobre Python e/ou Ciência de Dados de forma geral. Ainda, adoro conversar sobre Arduino! 🙈
+* 💬 Fale comigo sobre Python e/ou Ciência/Engenharia de Dados de forma geral. Ainda, adoro conversar sobre Arduino! 🙈
 
-* 🌱 Atualmente, estou estudando o Framework Django REST e os BD Firebase e Redis.
+* 🌱 Atualmente estou estudando sobre computação em nuvem.
 
 * ⚡️ Curiosidades ...
 > 📖 J. R. R. Tolkien (é claro), Bernard Cornwell, José Saramago e Pablo Neruda.
@@ -41,9 +40,9 @@ Graduado em Física e Mestre em Física Nuclear, assim, minha trajetória acadê
 * 🧐 Podes me achar no [Linkedin](https://www.linkedin.com/in/anderson-madruga-dos-santos/ "Anderson Madruga") também.
 
  #### Fique bem... ❤️
+ 
 <!---
-
+* 💼 Atual Desenvolvedor Python na Aria - Imagem e Tecnologia.
 * ⚡️ Curiosidade: Sou um grande fã de 
-
 * 🌱 🏡 Atualmente, a partir de casa, estou me aprofundando em alguns tópicos do meu interesse: Python (Pandas, Matplotlib, Scipy, Sympy e Numpy), Microsoft Power BI e SQL voltado para Ciência de Dados.
 -->
