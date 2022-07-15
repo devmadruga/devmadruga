@@ -9,16 +9,15 @@ Graduado em Física e Mestre em Física Nuclear, assim, minha trajetória acadê
 
 * 🎓 Mestre em Física - ênfase em Física Nuclear - pelo [ITA](http://www.ita.br/).
 
-* 🛠 Tenho experiência com
+* 🛠 Tenho experiência com as seginte tecnologias e/ou bibliotecas:
 
-|      **Web**         |      **Dados**        |
-|:--------------------:|:---------------------:|
-| Python - Django      | Python - Pandas       |
-| Python - Django REST | Python - Numpy        |
-| HTLM5                | Python - Scikit-learn |
-| CSS3                 | Google Data Studio    |
-| Bootstrap5           | Microsoft Power BI    |
-| SQL                  | SQL                   |
+> 1. **Dados:**
+> 
+> --> SQL | Data Build Tool | Python (Pandas) | Python (Numpy) | Python (Scikit-learn) | Google Data Studio | Microsoft Power BI
+>
+> 2. **Web:**
+> 
+> --> SQL | Python - Django | Python - Pandas | Python - Django REST | HTLM5 | CSS3 | Bootstrap5
 
 * 💻 Já faz algum tempo, mas ..
 
@@ -28,7 +27,7 @@ Graduado em Física e Mestre em Física Nuclear, assim, minha trajetória acadê
 
 * 💬 Fale comigo sobre Python e/ou Ciência/Engenharia de Dados de forma geral. Ainda, adoro conversar sobre Arduino! 🙈
 
-* 🌱 Atualmente estou estudando sobre computação em nuvem.
+* 🌱 Atualmente estou estudando sobre Apacha Kafka, Snowflake e Amazon Redshift.
 
 * ⚡️ Curiosidades ...
 > 📖 J. R. R. Tolkien (é claro), Bernard Cornwell, José Saramago e Pablo Neruda.
