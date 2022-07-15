@@ -1,7 +1,9 @@
 
 # Olá 👋, eu sou o Anderson Madruga
 
-Graduado em Física e Mestre em Física Nuclear, assim, minha trajetória acadêmica me deu grande poder de análise e resolução numérica dos mais diversos problemas. No início de 2021, buscando me inserir em uma área de atuação que não está presa ao tradicional, migrei da Educação para a Tecnologia. 😉 Desde então, o Python está diariamente em minha vida, quer seja no FrameWork Django ou nas bibliotecas Pandas, Numpy ou Scikit-learn.
+Graduado em Física e Mestre em Física Nuclear, assim, minha trajetória acadêmica me deu grande poder de análise e resolução numérica dos mais diversos problemas. No início de 2021, buscando me inserir em uma área de atuação que não está presa ao tradicional, migrei da Educação para a Tecnologia. 😉 
+
+Desde então, o Python está diariamente em minha vida... :heart_eyes:
 
 > "Bonito é melhor que feio. Explícito é melhor que implícito. Simples é melhor que complexo. Complexo é melhor que complicado.... (THE ZEN OF PYTHON)".
 
