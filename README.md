@@ -62,7 +62,7 @@ Graduado em Física e Mestre em Física Nuclear, assim, minha trajetória acadê
 
 # 💻 Portfolio
 
-1. Um projeto ELT em andamento que utiliza Python, AWS S3, DBT e Snowflake por ser visto aqui: [Projeto ELT](https://github.com/devmadruga/elt_projeto).
+1. Um projeto ELT que utiliza Python, AWS S3, DBT e Snowflake por ser visto aqui: [Projeto ELT](https://github.com/devmadruga/elt_projeto).
 
 2. Um pouco da utilização das bibliotecas Numpy, Pandas, Seaborn e Scikit-Learn pode ser visto [NESTE](https://github.com/devmadruga/ames) repositório.
 
