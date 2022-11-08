@@ -62,15 +62,19 @@ Graduado em Física e Mestre em Física Nuclear, assim, minha trajetória acadê
 
 # 💻 Portfolio
 
-1. Um projeto ELT que utiliza Python, AWS S3, DBT e Snowflake por ser visto aqui: [Projeto ELT](https://github.com/devmadruga/elt_projeto).
+1. Projeto de Reconhecimento de Ações em Vídeo com Mediapipe: [Visão Computacional](https://github.com/devmadruga/pose).
 
-2. Um pouco da utilização das bibliotecas Numpy, Pandas, Seaborn e Scikit-Learn pode ser visto [NESTE](https://github.com/devmadruga/ames) repositório.
+2. Classificação de Frases por Setor: [Projeto NLP](https://github.com/devmadruga/classificacao_de_frases).
 
-3. Se você quer ver algumas DashBoards criadas por mim, click: [Dashboards com Microsoft Power BI](https://devmadruga.github.io/power_bi/).
+3. Um projeto ELT que utiliza Python, AWS S3, DBT e Snowflake por ser visto aqui: [Projeto ELT](https://github.com/devmadruga/elt_projeto).
 
-4. Se você quiser ver algumas queries realizadas no MySQL, click: [Banco de Dados de um e-commerce](https://devmadruga.github.io/SQL/).
+4. Um pouco da utilização das bibliotecas Numpy, Pandas, Seaborn e Scikit-Learn pode ser visto [NESTE](https://github.com/devmadruga/ames) repositório.
 
-5. Se você quiser ver um pouco do que já fiz em Fortran77:
+5. Se você quer ver algumas DashBoards criadas por mim, click: [Dashboards com Microsoft Power BI](https://devmadruga.github.io/power_bi/).
+
+6. Se você quiser ver algumas queries realizadas no MySQL, click: [Banco de Dados de um e-commerce](https://devmadruga.github.io/SQL/).
+
+7. Se você quiser ver um pouco do que já fiz em Fortran77:
 
 > **Tese** apresentada à Pró-Reitoria de Pós-Graduação e Pesquisa do Instituto TeCnológico de Aeronáutia, como parte dos requisitos para obtenção do título > de Mestre em Ciências no Programa de Pós-Graduação em Física, Área de Física Nuclear. 
 > Pode ser vista [AQUI](https://drive.google.com/file/d/1w6gwXR5LIu67cBMDx3e8pJqEKGn14Z4u/view?usp=sharing). **TÍTULO DO TRABALHO:** Estado ligado de dois > bósons em (2+1) dimensões no espaço de Minkowski e a representação integral de Nakanishi na frente de luz.
