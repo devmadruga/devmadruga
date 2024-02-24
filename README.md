@@ -1,6 +1,9 @@
 # Olá 👋, eu sou o Anderson Madruga
 
-Graduado em Física e Mestre em Física Nuclear, assim, minha trajetória acadêmica me deu grande poder de análise e resolução numérica dos mais diversos problemas. O VBA e o Fortran foram "substituídos" na minha vida pelo Python, ainda em 2019, quando iniciei a graduação em Engenharia de Software. Desde então, ele e muitas outras ferramentas estão diariamente em minha vida. :heart_eyes:
+Graduado em Física e Mestre em Física Nuclear, com profundo domínio na resolução de problemas numéricos. 
+
+Utilizo Fortran77 e Fortran95 desde 2012 e meu contato com o paradigma Orientado a Objetos ocorreu a partir de 2019, especificamente com Python. Minha especialidade reside na Engenharia de Dados e desde o final de 2020 meu foco tem sido exclusivamente a área de tecnologia.
+
 
 > "Bonito é melhor que feio. Explícito é melhor que implícito. Simples é melhor que complexo. Complexo é melhor que complicado..."
 > 
