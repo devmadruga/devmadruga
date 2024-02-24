@@ -46,19 +46,19 @@ Este foco me permite explorar e contribuir inovadoramente para a área, buscando
 <details>
 <summary> Detalhes sobre 🛠... </summary>
 
-* **Python**
-  * **Bibliotecas:** Numpy, Pandas, Matplotlib, Seaborn e Scikit-learn.
-  * **Machine Learning:** Desenvolvi pequenos projetos utilizando Linear Regression, Logistic Regression, KNN, Support Vector Machines, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, Naive Bayes Classification, K-Means, Hierarchical Clustering, DBSCAN e Principal Component Analysis (PCA).
-  * **FrameWorks:** Django e Django REST.
-* **Desenvolvimento Web:** Html5, CSS3 e Bootstrap5.
-* **Banco de Dados:** SQL (MySQL, PostgreSQL e SQLite). Observação: Desenvolvi pequenos projetos com MongoDB, Redis, CouchDB e Firebase. 
-* **Transformação de Dados:** Data Build Tool.
-* **Orquestramento de Pipelines:** Apache-AirFlow.
-* **Container:** Docker.
-* **Visualização de Dados:** Microsoft Power BI e Google Data Studio.
-* **Nuvem:** Snowflake e AWS (S3, Redshift, Athena, EMR e EC2).
-* **Versionamento:** Git, Github e Gitlab.
-* **Deployment:** PythonAnywhere.
+Stack:
+
+- Sistema Operacional -> Debian | MX
+- Linguagens -> Python | SQL (Microsoft SQL Server, MySQL, PostgreSQL e SQLite) | PySpark | Fortran 77 e 95 | Wolfram Language
+- Nuvem -> Amazon Web Service (Glue, Redshift, Athena, EMR, EC2, S3, Databricks e DevOps), Microsoft Azure (Datafactory, Synapse Analytics, Blob Storage, Databricks e DevOps) | Snowflake
+- Análise Exploratório de Dados -> Numpy | Pandas | Matplotlib | Seaborn
+- IA -> Scikit-learn | TensorFlow
+- Workflows -> Apacke-Airflow
+- API -> FastAPI | Django REST framework
+- BI -> Google Data Studio | Microsoft Power BI
+- Containers -> Docker
+- Controle de Versões -> Git
+- Agile -> Scrum | Kanban
 
 </details>
 
