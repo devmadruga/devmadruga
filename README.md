@@ -1,9 +1,6 @@
-# Olá 👋, eu sou o Anderson Madruga
+# Olá 👋, eu sou o Anderson Madruga...
 
-Graduado em Física e Mestre em Física Nuclear, com profundo domínio na resolução de problemas numéricos. 
-
-Utilizo Fortran77 e Fortran95 desde 2012 e meu contato com o paradigma Orientado a Objetos ocorreu a partir de 2019, especificamente com Python. Minha especialidade reside na Engenharia de Dados e desde o final de 2020 meu foco tem sido exclusivamente a área de tecnologia.
-
+e trabalho com Fortran77 e Fortran95 desde 2012. Assim, adquiri profundo domínio na resolução de problemas numéricos. Minha jornada na programação orientada a objetos começou em 2019, com a adoção do Python, marcando um novo capítulo no meu desenvolvimento profissional. Especializei-me em Engenharia de Dados e, desde o final de 201920, tenho dedicado meus esforços exclusivamente ao campo tecnológico. Este foco me permite explorar e contribuir inovadoramente para a área, buscando soluções eficientes e eficazes para os desafios da era digital.
 
 > "Bonito é melhor que feio. Explícito é melhor que implícito. Simples é melhor que complexo. Complexo é melhor que complicado..."
 > 
